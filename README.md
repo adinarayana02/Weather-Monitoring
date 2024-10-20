@@ -104,6 +104,8 @@ To start the weather monitoring system, run the `main.py` file:
 ```bash
 python main.py
 ```
+<img width="608" alt="image" src="https://github.com/user-attachments/assets/8fe96c9d-e4c0-4e37-afa7-424e07c64154">
+
 
 This script will continuously fetch weather data, store it in the database, check for temperature alerts, and send emails when necessary.
 
