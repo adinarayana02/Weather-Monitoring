@@ -171,11 +171,9 @@ Example visualization:
 
 - **Average Temperature vs. Time**
 - **Temperature Variations for Major Cities**
-<img width="323" alt="image" src="https://github.com/user-attachments/assets/a6d93814-b25e-4d05-80a3-61e6538df476">
-<img width="319" alt="image" src="https://github.com/user-attachments/assets/c0535f5b-6811-4c19-b3ec-e72378b2d971">
-<img width="620" alt="image" src="https://github.com/user-attachments/assets/0facfb54-e0a1-4d8f-8f7b-67e74c39bb67">
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/74638d53-a822-44a8-8989-70f6017d51f3">
 
-
+<img width="332" alt="image" src="https://github.com/user-attachments/assets/929c8a41-86c5-4d8d-823d-5ecb5c7e72f6">
 
 ---
 
