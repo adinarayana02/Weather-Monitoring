@@ -125,6 +125,8 @@ The application uses **SQLAlchemy** with **Microsoft SQL Server** for storing an
 
 Email notifications for weather alerts are configured using **Gmail's SMTP** server. The `email_service.py` handles email sending when temperature thresholds are exceeded.
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/73e822ea-cb65-49c8-8219-a3d87b4c05ac">
+
 ---
 
 ## Step-by-Step Process
