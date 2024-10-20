@@ -95,6 +95,10 @@ Create the `weather_data` table in SQL Server by running the `models.py` script.
 
 ```bash
 python models.py
+
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/654bc164-ed4f-46fd-b141-63195337ba70">
+
+
 ```
 
 ### 5. Run the Application
